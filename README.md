@@ -31,7 +31,3 @@ Pessoas idosas no Brasil que querem ganhar autonomia no uso do smartphone, e tam
 - Anúncios: _ex.: Google AdMob (ajuste conforme o projeto)_
 
 
-
-## 📬 Contato
-
-Desenvolvido por **Seu Nome**. Para dúvidas ou sugestões, abra uma issue ou entre em contato: seu-email@exemplo.com
