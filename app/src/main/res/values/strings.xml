@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Apprender</string>
+    <string name="app_subtitle">Aprenda a usar seu celular com segurança e sem medo</string>
+
+    <!-- Navigation / Header titles -->
+    <string name="title_home">Início</string>
+    <string name="title_categories">Categorias de Aprendizado</string>
+    <string name="title_lesson">Lição</string>
+    <string name="title_quiz">Exercício de Prática</string>
+    <string name="title_lesson_complete">Lição Concluída!</string>
+    <string name="title_settings">Configurações</string>
+    <string name="title_privacy">Privacidade e Segurança</string>
+
+    <!-- Reusable Component Labels -->
+    <string name="btn_back">Voltar</string>
+    <string name="btn_next">Avançar</string>
+    <string name="btn_previous">Anterior</string>
+    <string name="btn_start_lesson">Iniciar Lição</string>
+    <string name="btn_start_quiz">Fazer Exercício</string>
+    <string name="btn_finish">Concluir Lição</string>
+    <string name="btn_continue">Continuar</string>
+    <string name="btn_go_home">Voltar ao Início</string>
+    <string name="btn_settings">Configurações</string>
+    <string name="btn_privacy">Política de Privacidade</string>
+    <string name="btn_reset_progress">Reiniciar Meu Progresso</string>
+    <string name="btn_explore_categories">Ver Categorias</string>
+
+    <!-- InfoBox strings -->
+    <string name="info_box_title">Por que fazer isso?</string>
+    <string name="info_box_default_body">Aprender este passo ajuda você a usar seu celular com mais tranquilidade e evita que você caia em golpes ou cometa erros por engano.</string>
+
+    <!-- Home Screen -->
+    <string name="home_welcome_title">Olá! Seja bem-vindo ao Apprender</string>
+    <string name="home_welcome_subtitle">Aqui você aprende no seu tempo, com explicações simples e letras grandes.</string>
+    <string name="home_progress_title">Seu Progresso</string>
+    <string name="home_progress_summary">Você concluiu 1 de 4 módulos recomendados.</string>
+
+    <!-- Category List Screen -->
+    <string name="category_list_subtitle">Escolha um assunto abaixo para começar a aprender:</string>
+    <string name="cat_basic_title">1. Uso Básico do Celular</string>
+    <string name="cat_basic_desc">Aprenda a tocar na tela, aumentar o volume e atender chamadas.</string>
+    <string name="cat_whatsapp_title">2. WhatsApp e Mensagens</string>
+    <string name="cat_whatsapp_desc">Envie mensagens de voz, fotos e converse com a família com segurança.</string>
+
+    <!-- Lesson Screen -->
+    <string name="lesson_step_counter">Passo %1$d de %2$d</string>
+    <string name="lesson_sample_title">Como identificar se uma mensagem é um golpe</string>
+    <string name="lesson_sample_instruction">Sempre desconfie de mensagens pedindo dinheiro urgente, mesmo que venham com a foto de um parente ou amigo.</string>
+    <string name="lesson_sample_why">Bandidagem utiliza fotos públicas para se passar por familiares. Ligar para o número antigo da pessoa confirma a verdade antes de enviar qualquer valor.</string>
+
+    <!-- Quiz Screen -->
+    <string name="quiz_question">Um número desconhecido mandou mensagem dizendo ser seu filho pedindo Pix urgente. O que você deve fazer?</string>
+    <string name="quiz_option_a">A) Enviar o Pix imediatamente para ajudar.</string>
+    <string name="quiz_option_b">B) Ligar para o número normal do seu filho antes de fazer qualquer transferência.</string>
+    <string name="quiz_option_c">C) Apagar o celular e comprar outro.</string>
+    <string name="quiz_correct_feedback">Correto! Sempre confirme ligando para o número antigo do familiar.</string>
+    <string name="quiz_incorrect_feedback">Tente novamente. Nunca envie dinheiro sem falar diretamente com a pessoa por ligação normal.</string>
+
+    <!-- Lesson Complete Screen -->
+    <string name="complete_congrats_title">Muito bem!</string>
+    <string name="complete_congrats_message">Você concluiu este aprendizado com sucesso. Cada passo deixa você mais seguro na internet.</string>
+    <string name="complete_badge_label">Medalha de Segurança Garantida</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_section_general">Geral</string>
+    <string name="settings_sound_effects">Efeitos de Som e Vibração</string>
+    <string name="settings_sound_desc">Sinta uma pequena vibração ao tocar nos botões.</string>
+    <string name="settings_large_text">Modo Texto Extra Grande</string>
+    <string name="settings_large_text_desc">Aumenta ainda mais o tamanho das letras para facilitar a leitura.</string>
+    <string name="settings_offline_notice">O Apprender funciona 100% sem internet. Nenhum dado pessoal é enviado para fora do seu telefone.</string>
+
+    <!-- Privacy Screen -->
+    <string name="privacy_title_main">Sua Privacidade é nossa Prioridade</string>
+    <string name="privacy_body_1">1. Sem Cadastro ou Senha: Você não precisa criar conta, colocar e-mail, nem informar seu CPF.</string>
+    <string name="privacy_body_2">2. Dados no Celular: Todo o seu progresso nas lições fica salvo exclusivamente no seu próprio aparelho.</string>
+    <string name="privacy_body_3">3. Aplicativo Gratuito com Anúncios: O aplicativo é totalmente gratuito para uso diário de todos os idosos.</string>
+
+    <!-- Accessibility / Content Descriptions -->
+    <string name="cd_back_button">Botão Voltar para a tela anterior</string>
+    <string name="cd_info_box">Caixa de informação: Por que fazer isso?</string>
+    <string name="cd_completed_badge">Ícone de conquista: Medalha de lição concluída</string>
+</resources>
